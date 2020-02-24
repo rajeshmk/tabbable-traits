@@ -1,0 +1,11 @@
+{
+    "name": "rajesh/laravel-route-permissions",
+    "description": "Routes and permissions for laravel application",
+    "type": "library",
+    "require": {
+        "php": "^7.2",
+        "rajesh/voco-base": "^1.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
