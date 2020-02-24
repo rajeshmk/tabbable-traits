@@ -1,6 +1,6 @@
 {
-    "name": "rajesh/laravel-route-permissions",
-    "description": "Routes and permissions for laravel application",
+    "name": "rajesh/tabbable-traits",
+    "description": "Tabbable traits auto generation",
     "type": "library",
     "require": {
         "php": "^7.2",
